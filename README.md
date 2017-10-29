@@ -1,4 +1,6 @@
-# LinearRegressionWS
-This is the content and code for the first lecture(linear regression) conducted by Community of coders VJTI in the machine learning (application oriented) series
+# LogisticRegressionWS
 
-The tutorial can be seen in the ipython notebook
+APLHA=3 EPOCHS=5000
+
+Accuracy of Training data  98.380952381
+Accuracy of Test data  97.3333333333
